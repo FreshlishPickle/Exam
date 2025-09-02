@@ -1,0 +1,6 @@
+Zebra
+Apfel
+Lampe
+Tisch
+Buch
+
